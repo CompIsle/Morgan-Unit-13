@@ -1,11 +1,8 @@
 I Wanted to Make the webpage as appealing as posssible, by addding NavBar's, Scrollwhells and othetr familier items that the user/consumer would find on other webpgaes. 
 
-I also added infomation about deals and offers, such as the alert at the top near the navbar, videos like the Google Pixel embeded video. I wanted to combine familiarity and original new infomation, the reason I added deals and offers was to hook the person in and saying, "Oh a Deal, well i moght have a look." It's a marketing technique of deals/offers.
-It was a challange making a Mobile Phone site as there were many things consider, looks, ease of use, security and accsess. 
-
-
-
-
+I also added infomation about deals and offers, such as the alert at the top near the navbar, videos like the Google Pixel embeded video. I wanted to combine familiarity and original new infomation, the reason I added deals and offers was to hook the person in and saying, "Oh a Deal, well i might have a look." It's a marketing technique of deals/offers.
+It was a challange making a Mobile Phone site as there were many things consider, looks, ease of use, security and accsess. I ran the website in multiple diffrent  websites, and from the results below you can see when it worked and when it didn't. 
+This was my first website fully complete and i considered every possible for design choices, I spent ages redesigning th Wireframes as there was many options but I went with the simplist. The others were messy and over-comlicated, i went with simple clean and easy to understand.
 
 
 
