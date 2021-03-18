@@ -20,6 +20,7 @@ This was my first website fully complete and i considered every possible for des
 
 
 
+
 I tested the Website on...
 
 Sucsessful Attemps
@@ -31,3 +32,15 @@ Sucsessful Attemps
 Failed Test
 
 - Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Dont work, pictures didn't work, tried for 1 hour and redid and adjusted coding but failed.
+
+
+
+
+
+Visual Studio Code 2021 (1.54.1)
+Copyright (c) Microsoft Corporation. All Rights Reserved 
+
+https://code.visualstudio.com/
+
+https://aka.ms/pscore6-docs
+Type 'help' to recive help.
