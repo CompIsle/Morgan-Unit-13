@@ -24,6 +24,8 @@ This was the first Wireframe and Webpage to be finsihed, it took about 4-5 weeks
 
  The Idea was simple rows of phones and buy/purchases buttons at the bottom, thats all the page needs and the page is an expanaded version of that original idea. 
 
+ Some phones are on pre-order and some and out, i've thought about adding a order page I can duplicate multiple times but decided against that as I wouldn't finish in time,  
+
 
 
 
