@@ -8,9 +8,19 @@ Simple, Clean and Easy to use were my 3 main concerns when going into creating w
 
 The homepage Origanlly had a dropdown box, cards and the background was blue. I had this up until mid-febuary, thats when i desided it looked, "Odd", it was over-crowded, cramped and a bit too like other phone sites, the ones i looked at was Voxi, EE and Sky Mobile. My main goal was to be simillar but yet unique and diffrent. I wanted my own design, but yet still not drift too far from the idea of a Phone Website. 
 
-I viewed the 3 websites and said "Ok, what looks bad or what could i put my own twist on?" Thats was my main startagy, it worked and didn't as many designs went through my head, on one of te concepts it was a mess, like other I previously spoke about. I knew Documentation/Comments got the most marks so mainly focued on documentation, however i could not deal with it lookingh like a mess so I quickly tidyed it up. 
+I viewed the 3 websites and said "Ok, what looks bad or what could i put my own twist on?" Thats was my main startagy, it worked and didn't as many designs went through my head, on one of te concepts it was a mess, like other I previously spoke about. I knew Documentation/Comments got the most marks so mainly focued on documentation, however i could not deal with it looking like a mess so I quickly tidyed it up. 
 
-The video is embedded from YouTube it's a Google Piel 4a video underneath a Pixel 5 ad, i only relised this once i had started Comments and Documentation so I just never decided to change it, I would be more concered if it was a fully diffrent product. 
+The video is embedded from YouTube it's a Google Piel 4a video underneath a Pixel 5 ad, i only relised this once i had started Comments and Documentation so I just never decided to change it, I would be more concered if it was a fully diffrent product. As i had ran into trouble getting the video into the Webpage/HTML file I tried not to touch it again, I tried with Apple and Samsung but something went wrong and the video messed up in a domino effect the entire webpage, so thats why its just Google. 
+
+
+
+
+Phone Page
+
+
+Each Picture had to be re-sized down to fit but yet the iPhone 12 Mini I belive has an invisable border around it, thats why its lower than the others. I never fixed it as Documentaion was inmortant.
+
+This was the first Wireframe and Webpage to be finsihed, it took about 4-5 weeks started in January. I've done small asjustment since but nothing major, Text Adjusments, re-sizing, refining... ect. 
 
 
 
