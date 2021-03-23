@@ -4,7 +4,9 @@ I also added infomation about deals and offers, such as the alert at the top nea
 It was a challange making a Mobile Phone site as there were many things consider, looks, ease of use, security and accsess. I ran the website in multiple diffrent  websites, and from the results below you can see when it worked and when it didn't. 
 This was my first website fully complete and i considered every possible for design choices, I spent ages redesigning the Wireframes as there was many options but I went with the simplist. The others were messy and over-comlicated, i went with simple clean and easy to understand. It needed to be obvious that we (NewVision Mobile) had more to offer than meets the eye.
 
-Simple, Clean and Easy to use were my 3 main concerns when going into creating webpage. 
+Simple, Clean and Easy to use were my 3 main concerns when going into creating webpage. It was a challage but yet I confronted it, my wireframes went through may changes as well as the actual webpage, there was origanlly a Data Plans tab I worked on during "Work From Home" But i scrapped it early on, it was messy, complicated and even I was getting confused, so thats when I started designing the "Phones" Tab, it was worked over the top and off the blueprints if the data plans. 
+
+Te homepage Origanly had a dropdown box, cards and the background was blue. 
 
 
 
