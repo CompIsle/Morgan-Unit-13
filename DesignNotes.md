@@ -20,7 +20,9 @@ Phone Page
 
 Each Picture had to be re-sized down to fit but yet the iPhone 12 Mini I belive has an invisable border around it, thats why its lower than the others. I never fixed it as Documentaion was inmortant.
 
-This was the first Wireframe and Webpage to be finsihed, it took about 4-5 weeks started in January. I've done small asjustment since but nothing major, Text Adjusments, re-sizing, refining... ect. 
+This was the first Wireframe and Webpage to be finsihed, it took about 4-5 weeks started in January. I've done small asjustment since but nothing major, Text Adjusments, re-sizing, refining... ect.
+
+ The Idea was simple rows of phones and buy/purchases buttons at the bottom, thats all the page needs and the page is an expanaded version of that original idea. 
 
 
 
