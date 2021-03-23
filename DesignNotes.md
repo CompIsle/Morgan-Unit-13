@@ -6,7 +6,9 @@ This was my first website fully complete and i considered every possible for des
 
 Simple, Clean and Easy to use were my 3 main concerns when going into creating webpage. It was a challage but yet I confronted it, my wireframes went through may changes as well as the actual webpage, there was origanlly a Data Plans tab I worked on during "Work From Home" But i scrapped it early on, it was messy, complicated and even I was getting confused, so thats when I started designing the "Phones" Tab, it was worked over the top and off the blueprints if the data plans. 
 
-Te homepage Origanly had a dropdown box, cards and the background was blue. 
+The homepage Origanlly had a dropdown box, cards and the background was blue. I had this up until mid-febuary, thats when i desided it looked, "Odd", it was over-crowded, cramped and a bit too like other phone sites, the ones i looked at was Voxi, EE and Sky Mobile. My main goal was to be simillar but yet unique and diffrent. I wanted my own design, but yet still not drift too far from the idea of a Phone Website. 
+
+I viewed the 3 websites and said "Ok, what looks bad or what could i put my own twist on?" Thats was my main startagy, it worked and didn't as many designs went through my head, on one of te concepts it was a mess, like other I previously spoke about. I knew Documentation/Comments got the most marks so mainly focued on documentation, however i could not deal with it lookingh like a mess so I quickly tidyed it up. 
 
 
 
