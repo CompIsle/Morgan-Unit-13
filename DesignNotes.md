@@ -10,6 +10,8 @@ The homepage Origanlly had a dropdown box, cards and the background was blue. I 
 
 I viewed the 3 websites and said "Ok, what looks bad or what could i put my own twist on?" Thats was my main startagy, it worked and didn't as many designs went through my head, on one of te concepts it was a mess, like other I previously spoke about. I knew Documentation/Comments got the most marks so mainly focued on documentation, however i could not deal with it lookingh like a mess so I quickly tidyed it up. 
 
+The video is embedded from YouTube it's a Google Piel 4a video underneath a Pixel 5 ad, i only relised this once i had started Comments and Documentation so I just never decided to change it, I would be more concered if it was a fully diffrent product. 
+
 
 
 
