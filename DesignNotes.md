@@ -3,10 +3,12 @@
 This website is intended for a new business who wants to sell phones and data plans to consumers, the website is well design and has a good ease of use. It is easy to navigate to maximize user engagement. It includes an embedded video and a mailing list sign-up at the bottom of the homepage, for the consumer to stay in contact with the business and get emails as soon as new product or deal goes live. There is a carousel at center of the homepage as that is to promote a new product thats either just come out or coming out to grab the customers attention and hook them in to buying the latest and greatest product. 
 
 
-# Justification
+# Test Plan
 
-- I Made the use of Bootstrap and it has some valued asset/components that can make a webpage stand out with all of its features and its wide range of compatibility with web browsers.
-- I made the use of cards to show of the phones as it can give a description as well as show the product in a condensed space so that the viewer/user can easily see everything they need to know about the product quickly
+- I Plan to test this website on multiple browsers (Chrome, Edge, Firefox)
+- I will test it by clicking on all the components, buttons, tabs, ect
+- I plan to test the FPS (Frames Per Second) and loading times of each website 
+-  Plan to test each component of the code (HTML, Bootstrap & CSS), and wil try and resolve any issues if they come up. 
 
 
 
@@ -21,12 +23,15 @@ Number | Price |  Product | Source
 5) |  £450  | Samsung Galaxy A71 | https://www.samsung.com/uk/smartphones/galaxy-a/
 
 
-# Test Plan
 
-- I Plan to test this website on multiple browsers (Chrome, Edge, Firefox)
-- I will test it by clicking on all the components, buttons, tabs, ect
-- I plan to test the FPS (Frames Per Second) and loading times of each website 
--  Plan to test each component of the code (HTML & CSS), and wil try and resolve any issues if they come up. 
+# Justification
+
+- I Made the use of Bootstrap and it has some valued asset/components that can make a webpage stand out with all of its features and its wide range of compatibility with web browsers.
+- I made the use of cards to show of the phones as it can give a description as well as show the product in a condensed space so that the viewer/user can easily see everything they need to know about the product quickly and efficiently. 
+ - I used alerts as it can quickly grab the user attention, for example i used it as there was a 50% off deal for one day and i made it an opposing colour to the webpage to make it stand out.
+ - A Navbar is a good feature to have as it gives quick access to features like links to other web pages, a search bar and more tools such as buttons, video links and more...
+ - 
+
 
 # Browser Compatibility
 
