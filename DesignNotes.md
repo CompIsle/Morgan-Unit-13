@@ -1,10 +1,25 @@
-This website is intended for a new business who wants to sell phones and data plans. 
+# Who this website is intended for.
+
+This website is intended for a new business who wants to sell phones and data plans to consumers, the website is well design and has a good ease of use 
 
 
+# Asset List 
+
+Number | Price |  Product | Source 
+
+1) |  £649  | Apple iPhone 11 | https://apple.com/uk
+2) |  £499  | Google Pixel 5  | https://store.google.com
+3) |  £459  | Oppo A72 Twilight | https://www.oppo.com/uk/ 
+4) |  £719  | Samsung Galaxy S21 | https://www.samsung.com/uk/smartphones/galaxy-s/
+5) |  £450  | Samsung Galaxy A71 | https://www.samsung.com/uk/smartphones/galaxy-a/
 
 
+# Test Plan
 
-
+- I Plan to test this website on multiple browsers (Chrome, Edge, Firefox)
+- I will test it by clicking on all the components, buttons, tabs, ect
+- I plan to test the FPS (Frames Per Second) and loading times of each website 
+-  Plan to test each component of the code (HTML & CSS), and wil try and resolve any issues if they come up. 
 
 
 
@@ -29,7 +44,7 @@ Successful Attempts
 
 Failed Test
 
-- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Dont work, pictures didn't work, tried for 1 hour and redid and adjusted coding but failed.
+- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - don't work, pictures didn't work, tried for 1 hour and redid and adjusted coding but failed.
 
 
 
