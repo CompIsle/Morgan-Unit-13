@@ -1,6 +1,7 @@
 # Who this website is intended for.
 
-This website is intended for a new business who wants to sell phones and data plans to consumers, the website is well design and has a good ease of use 
+This website is intended for a new business who wants to sell phones and data plans to consumers, the website is well design and has a good ease of use. It is easy to navigate to maximize user engagement. It includes an embedded video and a mailing list sign-up at the bottom of the homepage, for the consumer to stay in contact with the business and get emails as soon as new product or deal goes live. There is a carousel at center of the homepage as that is to promote a new product thats either just come out or coming out to grab the customers attention and hook them in to buying the latest and greatest product. 
+
 
 
 # Asset List 
@@ -21,17 +22,7 @@ Number | Price |  Product | Source
 - I plan to test the FPS (Frames Per Second) and loading times of each website 
 -  Plan to test each component of the code (HTML & CSS), and wil try and resolve any issues if they come up. 
 
-
-
-
-
-
-
-
-
-
-
-
+# Browser Compatibility
 
 
 I tested the Website on...
@@ -44,7 +35,11 @@ Successful Attempts
 
 Failed Test
 
-- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - don't work, pictures didn't work, tried for 1 hour and redid and adjusted coding but failed.
+- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Did not work, pictures didn't load, tried for 1 hour, adjusted coding but still failed.
+
+
+
+
 
 
 
@@ -56,4 +51,4 @@ Copyright (c) Microsoft Corporation. All Rights Reserved
 https://code.visualstudio.com/
 
 https://aka.ms/pscore6-docs
-Type 'help' to recive help.
+
