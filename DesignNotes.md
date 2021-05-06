@@ -9,6 +9,26 @@ NewVision Mobile is a phone/data company that sells good valued data plans to th
 - I plan to test the FPS (Frames Per Second) and loading times of each website 
 -  Plan to test each component of the code (HTML, Bootstrap & CSS), and wil try and resolve any issues if they come up. 
 
+ # Wireframes
+
+ 
+![(Code Version) of All Products - Website Mock](https://user-images.githubusercontent.com/77435974/117279969-0c34ab00-ae5a-11eb-8d12-c50972785505.jpg)
+
+
+![(Code Version) of Data Plans - Website Mock](https://user-images.githubusercontent.com/77435974/117280174-3dad7680-ae5a-11eb-8652-3206fbda1ef9.jpg)
+
+ 
+![(Code Version) of HomePage - Mockup of Website](https://user-images.githubusercontent.com/77435974/117280590-aac10c00-ae5a-11eb-81eb-e27ae4321321.jpg)
+
+
+![(Code Version) of Phones - Website Mock](https://user-images.githubusercontent.com/77435974/117280790-dc39d780-ae5a-11eb-849b-e0233cc7c227.jpg)
+
+![Phones - Website Mock](https://user-images.githubusercontent.com/77435974/117280971-11dec080-ae5b-11eb-909b-062ec41692e1.jpg)
+
+
+
+
+
 
 # Asset List 
 
@@ -54,8 +74,6 @@ This website has multiple links to website that are "Under Construction" those a
 <br>
 
 NewVision Mobile is meant to be a phone/data company for the people with great deals/offers so that anyone can afford to partner/invest with them. We have a great customer service team that are always ready to assist you with any questions or issues you may have. With all our products we have a 30 day money back guarantee, so if you not satisfied with your purchases you can swap it or money back with no hidden fees or additional charges. 
-
- 
 
 
 # Browser Compatibility
