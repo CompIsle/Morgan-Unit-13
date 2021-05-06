@@ -41,7 +41,7 @@ Number | Product | Source
 
 # Restrictions
 
-I had some restraints and restrictions when developing the website, such as Copyright and Trademarked content. some of the origanlly images i had used in developing the webpage had watermarks and copyright attached to the them therefoire i need to filter and al my images to "Creative Commons Licence" So it was free for public use however still giving credit to the original creator and copyright holder. 
+I had some restraints and restrictions when developing the website, such as Copyright and Trademarked content. some of the originally images i had used in developing the webpage had watermarks and copyright attached to the them therefoire i need to filter and al my images to "Creative Commons Licence" So it was free for public use however still giving credit to the original creator and copyright holder. 
 
 # Description - Who this website is intended for 
 
@@ -60,31 +60,24 @@ NewVision Mobile is meant to be a phone/data company for the people with great d
 
 # Browser Compatibility
 
-
-I tested the Website on...
+When testing the website i wanted to make sure it worked on the main 3 biggest (Chrome, Edge and Firefox) as well as other such as Apple's Safari and Opera as well as Brave. These were the results of my testing...
 
 Successful Attempts
 
 - Google Chrome (Version 89.0.4389.90 released in February 2021)
 - Microsoft Edge/Bing (Version 89.0.774.50 released in March 2021)
 - Mozilla Firefox (Version 86.0.1 released in March 2021)
+- Apple Safari (Version 14.5 released in April 2021) 
+- Brave (Version 1.22.71 released in April 2021)
 
 Failed Test
 
-- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Did not work, pictures didn't load, tried for 1 hour, adjusted coding but still failed.
+- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Failed to load HTML, deleted and reinstalled the browser still did not work, fully changed code and it then came up with "Error 404 Not Found" So after 1 Hour and a half of trying i gave up and concluded my testing. 
+
+
+<br>
 
 
 
 
-
-
-
-
-
-Visual Studio Code 2021 (1.54.1)
-Copyright (c) Microsoft Corporation. All Rights Reserved 
-
-https://code.visualstudio.com/
-
-https://aka.ms/pscore6-docs
 
