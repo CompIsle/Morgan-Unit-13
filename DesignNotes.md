@@ -73,9 +73,9 @@ This website has multiple links to website that are "Under Construction" those a
 
 <br>
 
-NewVision Mobile is meant to be a phone/data company for the people with great deals/offers so that anyone can afford to partner/invest with them. We have a great customer service team that are always ready to assist you with any questions or issues you may have. With all our products we have a 30 day money back guarantee, so if you not satisfied with your purchases you can swap it or money back with no hidden fees or additional charges. 
+NewVision Mobile  is meant to be a phone/data company for the people with great deals/offers so that anyone can afford to partner/invest with them. We have a great customer service team that are always ready to assist you with any questions or issues you may have. With all our products we have a 30 day money back guarantee, so if you not satisfied with your purchases you can swap it or money back with no hidden fees or additional charges. 
 
-# Alterative Solutions 
+# Alternative Solutions 
 
 - The Webpage went through many design changes as you can see from the Wireframes, Originally i was going to have the Specs (Specifications) of the phone underneath the price, but i got rid of that not to far into planning because it was putting to much information that not too many people would care about front and center so my idea was to hid it within the "Order Page" Which never got finished with planning.
 
