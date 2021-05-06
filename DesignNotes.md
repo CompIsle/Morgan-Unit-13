@@ -1,7 +1,6 @@
-# Description - Who this website is intended for 
+# Brief Description 
 
-This website is intended for a new business who wants to sell phones and data plans to consumers, the website is well designed and has a good ease of use. It is easy to navigate to maximize user engagement. It includes an embedded video and a mailing list sign-up at the bottom of the homepage, for the consumer to stay in contact with the business and get emails as soon as new product or deal goes live. There is a carousel at center of the homepage as that is to promote a new product thats either just come out or coming out to grab the customers attention and hook them in to buying the latest and greatest product. 
-
+NewVision Mobile is a phone/data company that sells good valued data plans to the people with a wide range of coverage across the country with 4 and 5G. The Website is well designed and has a good ease of use tailored to all demographics. It has interactive features such as videos, buttons and links. 
 
 # Test Plan
 
@@ -11,30 +10,52 @@ This website is intended for a new business who wants to sell phones and data pl
 -  Plan to test each component of the code (HTML, Bootstrap & CSS), and wil try and resolve any issues if they come up. 
 
 
-
 # Asset List 
 
-Number | Price |  Product | Source 
+Number | Price/Cost |  Product | Source 
 
-1) |  £649  | Apple iPhone 11 | https://apple.com/uk
-2) |  £499  | Google Pixel 5  | https://store.google.com
+1) |  £649  | Apple iPhone 11 | https://apple.com/uk 
+2) |  £499  | Google Pixel 5  | https://store.google.com 
 3) |  £459  | Oppo A72 Twilight | https://www.oppo.com/uk/ 
 4) |  £719  | Samsung Galaxy S21 | https://www.samsung.com/uk/smartphones/galaxy-s/
 5) |  £450  | Samsung Galaxy A71 | https://www.samsung.com/uk/smartphones/galaxy-a/
 
+Number | Product | Source
 
+1) | Google Pixel 4a Promotional Video | https://www.youtube.com/watch?v=v_f3Km_eQnw
 
 # Justification
 
 
 - I Made the use of HTML as it can be ran on most browsers such as Chrome, Firefox and Edge and many more. I has a wide range of features and it can be linked to CSS, Bootstrap ect.
+- I made the use of CSS as it has useful features that can help design the webpage such as, background colour, elements and behavior of the component.
 - I Made the use of Bootstrap and it has some valued asset/components that can make a webpage stand out with all of its features and its wide range of compatibility with web browsers.
 - I made the use of cards to show of the phones as it can give a description as well as show the product in a condensed space so that the viewer/user can easily see everything they need to know about the product quickly and efficiently. 
  - I used alerts as it can quickly grab the user attention, for example i used it as there was a 50% off deal for one day and i made it an opposing colour to the webpage to make it stand out.
  - A Navbar is a good feature to have as it gives quick access to features like links to other web pages, a search bar and more tools such as buttons, video links and more...
- - Embedded Video, i included a video to show consumers a l easy to understand promotional video about the product, it shows the product in the best light along with the best features. 
+ - Embedded Video, i included a video to show consumers a easy to understand promotional video about the product, it shows the product in the best light along with the best features. 
  - I used a mailing list to show the consumers that they can stay in contact and get updates on the best deals and newest releases. 
  - The Account creation was intended to show consumers that they can get exclusive benefits and i added "End-To-End Encryption" to give the consumer extra security and protection. 
+
+
+
+# Restrictions
+
+I had some restraints and restrictions when developing the website, such as Copyright and Trademarked content. some of the origanlly images i had used in developing the webpage had watermarks and copyright attached to the them therefoire i need to filter and al my images to "Creative Commons Licence" So it was free for public use however still giving credit to the original creator and copyright holder. 
+
+# Description - Who this website is intended for 
+
+This website is intended for a new business who wants to sell phones and data plans to consumers, the website is well designed and has a good ease of use. It is easy to navigate to maximize user engagement. It includes an embedded video and a mailing list sign-up at the bottom of the homepage, for the consumer to stay in contact with the business and get emails as soon as new product or deal goes live. There is a carousel at center of the homepage as that is to promote a new product thats either just come out or coming out to grab the customers attention and hook them in to buying the latest and greatest product. The Video is there  to show consumers a easy to understand promotional video about the product, it shows the product in the best light along with the best features. The interactive features such as buttons, videos and links are there to keep the user engaged and interactive with the website and all its features.
+
+<br>
+
+This website has multiple links to website that are "Under Construction" those are going to be pages baed upon "Data Plans" & an "About Us" Section which will give a brief description about the company and what it'll do for it customers. The Data Plans section will mirror the "Phones" section as it'll be familiar to all the viewer's of the site and they'll be able to navigate the section of the site with an ease of use as if they have viewed the "Phones" section previously it'll be almost identical other that Data Plans rather than phones. The "About Us" Section is going to a brief description of the company, where there based, there dedicated to their customers, terms and conditions (T&C's) and dedication to privacy. 
+
+<br>
+
+NewVision Mobile is meant to be a phone/data company for the people with great deals/offers so that anyone can afford to partner/invest with them. We have a great customer service team that are always ready to assist you with any questions or issues you may have. With all our products we have a 30 day money back guarantee, so if you not satisfied with your purchases you can swap it or money back with no hidden fees or additional charges. 
+
+ 
 
 
 # Browser Compatibility

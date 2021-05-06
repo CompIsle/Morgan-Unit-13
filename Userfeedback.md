@@ -1,4 +1,7 @@
+# User Feedback & Recommendations
+
+
 1) Armandas - The Website is well structured, you may need an Order Page. You could also change the font, its a bit bland and basic. The website could be a lot more vibrant and colourful. Other than that the Website is well designed and looks well thought out. 
 
 
-2) Viktor - Your website could have a confirm password section, just copy and paste the "Password" and rename it to "Confirm Password", you could have an "About Us" Page by copy ad pasting the section on the homepage into it's own HTML file. The website is good and very well structured the NavBar may need some tweaking with the spacing
+2) Viktor - Your website could have a confirm password section, just copy and paste the "Password" and rename it to "Confirm Password", you could have an "About Us" Page by copy ad pasting the section on the homepage into it's own HTML file. The website is good and very well structured the NavBar may need some tweaking with the spacing.
