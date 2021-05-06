@@ -55,7 +55,7 @@ Number | Product | Source
  - A Navbar is a good feature to have as it gives quick access to features like links to other web pages, a search bar and more tools such as buttons, video links and more...
  - Embedded Video, i included a video to show consumers a easy to understand promotional video about the product, it shows the product in the best light along with the best features. 
  - I used a mailing list to show the consumers that they can stay in contact and get updates on the best deals and newest releases. 
- - The Account creation was intended to show consumers that they can get exclusive benefits and i added "End-To-End Encryption" to give the consumer extra security and protection. 
+ - The Account creation was intended to show consumers that they can get exclusive benefits and i added "End-To-End Encryption" to give the consumer extra security and protection. hddshfjer
 
 
 
