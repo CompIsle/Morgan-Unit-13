@@ -98,7 +98,7 @@ Successful Attempts
 
 Failed Test
 
-- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Failed to load HTML, deleted and reinstalled the browser still did not work, fully changed code and it then came up with "Error 404 Not Found" So after 1 Hour and a half of trying i gave up and concluded my testing. 
+- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Failed to load HTML, deleted and reinstalled the browser still did not work, fully changed code and it then came up with "Error 404 Not Found" So after 1 Hour and a half of trying i gave up and concluded my testing.   
 
 
 <br>
