@@ -57,6 +57,7 @@ Number | Product | Source
  - I used a mailing list to show the consumers that they can stay in contact and get updates on the best deals and newest releases. 
  - The Account creation was intended to show consumers that they can get exclusive benefits and I added "End-To-End Encryption" to give the consumer extra security and protection. 
  - I added a "Contact Us" footer across all the pages so ts easy to find for all user.
+ - The "Under Construction" page is there to represent the fact that the website is not finished, and there is still more development needed.
 
 
 
