@@ -51,17 +51,18 @@ Number | Product | Source
 - I made the use of CSS as it has useful features that can help design the webpage such as, background colour, elements and behavior of the component.
 - I Made the use of Bootstrap and it has some valued asset/components that can make a webpage stand out with all of its features and its wide range of compatibility with web browsers.
 - I made the use of cards to show of the phones as it can give a description as well as show the product in a condensed space so that the viewer/user can easily see everything they need to know about the product quickly and efficiently. 
- - I used alerts as it can quickly grab the user attention, for example i used it as there was a 50% off deal for one day and i made it an opposing colour to the webpage to make it stand out.
+ - I used alerts as it can quickly grab the user attention, for example I used it as there was a 50% off deal for one day and I made it an opposing colour to the webpage to make it stand out.
  - A Navbar is a good feature to have as it gives quick access to features like links to other web pages, a search bar and more tools such as buttons, video links and more...
- - Embedded Video, i included a video to show consumers a easy to understand promotional video about the product, it shows the product in the best light along with the best features. 
+ - Embedded Video, I included a video to show consumers a easy to understand promotional video about the product, it shows the product in the best light along with the best features. 
  - I used a mailing list to show the consumers that they can stay in contact and get updates on the best deals and newest releases. 
- - The Account creation was intended to show consumers that they can get exclusive benefits and i added "End-To-End Encryption" to give the consumer extra security and protection. 
+ - The Account creation was intended to show consumers that they can get exclusive benefits and I added "End-To-End Encryption" to give the consumer extra security and protection. 
+ - I added a "Contact Us" footer across all the pages so ts easy to find for all user.
 
 
 
 # Restrictions
 
-I had some restraints and restrictions when developing the website, such as Copyright and Trademarked content. some of the originally images i had used in developing the webpage had watermarks and copyright attached to the them therefoire i need to filter and al my images to "Creative Commons Licence" So it was free for public use however still giving credit to the original creator and copyright holder. 
+I had some restraints and restrictions when developing the website, such as Copyright and Trademarked content. Some of the originally images I had used in developing the webpage had watermarks and copyright attached to the them therefore I need to filter and al my images to "Creative Commons Licence" So it was free for public use however still giving credit to the original creator and copyright holder. 
 
 # Description - Who this website is intended for 
 
@@ -98,7 +99,7 @@ Successful Attempts
 
 Failed Test
 
-- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Failed to load HTML, deleted and reinstalled the browser still did not work, fully changed code and it then came up with "Error 404 Not Found" So after 1 Hour and a half of trying i gave up and concluded my testing.   
+- Opera/Opera GX (Version 74.0.3911.203 released in March 2021) - Failed to load HTML, deleted and reinstalled the browser still did not work, fully changed code and it then came up with "Error 404 Not Found" So after 1 Hour and a half of trying I gave up and concluded my testing.   
 
 
 <br>
