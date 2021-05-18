@@ -5,7 +5,7 @@
 
 <br>
 
-- Response - I took this feedback in with consideration, I was planing the "Order Page" however it never made it past the planning stage. The website had a white background as anything with colour was meant to stand out and grab the viewers attention but still the feedback has been considered a very many times. 
+- Response - I took this feedback in with consideration, I was planing the "Order Page" however it never made it past the planning stage. The website has a white background as anything with colour was meant to stand out and grab the viewers attention but still the feedback has been considered many times. 
 
 <br>
 
@@ -13,4 +13,4 @@
 
 <br>
 
-- Response -  The "Confirm Password" section has now been added to the website, thank you for the valued feedback. The "About Us" Page is currently under construction and will be fully different to the Homepage of the site, with a  different description however we shall take that idea into consideration & the Navbar spacing issue has now been resolved. 
+- Response -  The "Confirm Password" section has now been added to the website, thank you for the valued feedback. The "About Us" page is currently under construction and will be fully different to the homepage of the site, with a  different description however we shall take that idea into consideration & the navbar spacing issue has now been resolved. 
